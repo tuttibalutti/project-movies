@@ -21,4 +21,6 @@ Once the error is caught we show an alert message and use useEffect() and useHis
 
 ### View it live
 
+https://friendly-goodall-d163f7.netlify.app/
+
 
